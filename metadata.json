@@ -1,0 +1,6 @@
+{
+  "name": "Thai Language Learning for Workforce",
+  "description": "A textbook-style interactive website for Burmese-speaking workers in Thailand to learn workforce Thai, featuring interview dialogues, phonetic guides, TTS audio playback, vocabulary cards, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
